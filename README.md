@@ -34,11 +34,14 @@ Je m’appelle KOUMASSOU Sètondji Marie-Josué Aldric, technicien en production
 - Réalisation de poster
 - Maîtrise des outils de référencements (Zotero)
 - Maîtrise des outils IA pour l’optimisation des idées et leur organisation (Chatgpt, Copilot)
+
 ### Soft skills
 *Leadership ~ Créatif dans la résolution de problème ~ Recherche perpétuelle de connaissance ~ Écoute*
+
 ### Langues
 - Maternelle: Français
 - Autres: Anglais (B1)
+
 ### Atouts
 *Permis de conduire B*
 
