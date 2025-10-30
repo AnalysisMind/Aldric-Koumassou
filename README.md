@@ -50,3 +50,4 @@ Je m’appelle KOUMASSOU Sètondji Marie-Josué Aldric, technicien en production
 *Football ~ Musique ~ Documentaires et conférences (finances, nature, neurosciences, histoire, philosophie)*
 
 ## <span style="color: blue;">ANNEXES</span>
+[Documents annexes Aldric Koumassou](https://drive.google.com/drive/folders/1ZYSIbBr_MfcfQZBd2HIdwXP2gIAkj1vU?usp=drive_link)
