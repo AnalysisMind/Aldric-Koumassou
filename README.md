@@ -10,12 +10,13 @@ Je m’appelle KOUMASSOU Sètondji Marie-Josué Aldric, technicien en production
 - **2019 :** Baccalaureat, Serie D
 
 ## <span style="color: blue;">FORMATIONS PROFESSIONNELLES</span>
-- **2025 :** Atelier sur la délimitation des espèces avec l’ADN par IRSNB, UAC, IRHOB/CBRSI, CReMIT
-- **2024 :** International Conference on Molecular Biology Research par IRGIB Africa
-- **2024 :** Formation en analyse de données  par AIESEC (Digital Academy)
-- **2024 :** Formation en système d’information géographique  par EGD Academia
-- **2023 :** Workshop on Zoonoses and Tick-borne diseases  par UAC
-- **2022 :** Séminaire de renforcement des capacités des étudiants sur la « Méthodologie de recherche et rédaction de documents scientifiques »  par EPAC
+- **2025 :** Formation sur open classroom en data: [Utilisez ChatGPT pour améliorer votre productivité](https://openclassrooms.com/fr/courses/8204091-utilisez-chatgpt-pour-ameliorer-votre-productivite) ~ [Initiez-vous à R pour l'analyse de données](https://openclassrooms.com/fr/courses/8248096-initiez-vous-a-r-pour-lanalyse-de-donnees) ~ [Nettoyez et analysez votre jeu de données](https://openclassrooms.com/fr/courses/7410486-nettoyez-et-analysez-votre-jeu-de-donnees) ~ [Explorez les tests statistiques](https://openclassrooms.com/fr/courses/8313631-explorez-les-tests-statistiques) ~ [Réalisez une analyse exploratoire de données](https://openclassrooms.com/fr/courses/4525281-realisez-une-analyse-exploratoire-de-donnees)
+- **2025 :** Atelier sur la délimitation des espèces avec l’ADN _ IRSNB, UAC, IRHOB/CBRSI, CReMIT
+- **2024 :** International Conference on Molecular Biology Research _ IRGIB Africa
+- **2024 :** Formation en analyse de données  _ AIESEC (Digital Academy)
+- **2024 :** Formation en système d’information géographique  
+- **2023 :** Workshop on Zoonoses and Tick-borne diseases  
+- **2022 :** Séminaire de renforcement des capacités des étudiants sur la « Méthodologie de recherche et rédaction de documents scientifiques »  
 
 ## <span style="color: blue;">EXPÉRIENCES PROFESSIONNELLES /STAGES</span>
 - **2022 :** Technicien  de laboratoire à l'URMAT (Identification des tiques, extraction d’ADN, la Réaction en Chaîne de la Polymérase (PCR), l’électrophorèse)
