@@ -45,6 +45,7 @@ Je m’appelle KOUMASSOU Sètondji Marie-Josué Aldric, technicien en production
 ### Atouts
 *Permis de conduire B*
 
-## CENTRES D’INTÉRÊT
+## <span style="color: blue;">CENTRES D’INTÉRÊT</span>
 *Football ~ Musique ~ Documentaires et conférences (finances, nature, neurosciences, histoire, philosophie)*
-## ANNEXES
+
+## <span style="color: blue;">ANNEXES</span>
