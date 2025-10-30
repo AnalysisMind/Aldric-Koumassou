@@ -1,6 +1,6 @@
-# Aldric-Koumassou
-Formation trading intermédiaire
-# 📚 Formation en Ligne : [Titre de votre Formation]
+## ![Uploading image.png…]() SUMMARY
+Je m’appelle KOUMASSOU Sètondji Marie-Josué Aldric, technicien en production et santé animale et titulaire d'un master en génétique. Je suis également data enthusiast allant du néttoyage à la réalisation d'analyse.
+## EDUCATION
 
 Bienvenue dans notre formation en ligne dédiée à [sujet de la formation]. Ce cours est conçu pour vous fournir des connaissances approfondies et des compétences pratiques sur [description brève du contenu].
 
