@@ -39,6 +39,3 @@ Je m’appelle KOUMASSOU Sètondji Marie-Josué Aldric, technicien en production
 ## CENTRES D’INTÉRÊT
 *Football ~ Musique ~ Documentaires et conférences (finances, nature, neurosciences, histoire, philosophie)
 ## ANNEXES
-
-
-Merci de votre intérêt pour notre formation ! Nous sommes impatients de vous aider à atteindre vos objectifs d'apprentissage.
