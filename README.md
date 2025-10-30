@@ -1,8 +1,8 @@
 ## SUMMARY
 Je m’appelle KOUMASSOU Sètondji Marie-Josué Aldric, technicien en production et santé animale et titulaire d'un master en génétique. Je suis également data enthusiast allant du néttoyage à la réalisation d'analyse.
 ## ✉️ Contact
-Mail [koumassoualdric@gmail.com]
-Télephone: +229 0164281263
+- Mail: [koumassoualdric@gmail.com]
+- Télephone: +229 0164281263
 ## EDUCATION
 - **2023 -2025 :** Master I & II en Génétique Biotechnologie et Ressouces Biologiques
 - **2019 -2022 :** Licence professionnelle en Production et Santé Animale sur la thématique "Identification moléculaire de Rickettsia spp. chez les tiques Amblyomma variegatum collectées sur les bovins dans la commune d’Abomey-Calavi"
