@@ -2,5 +2,5 @@ title: "Aldric KOUMASSOU"
 logo: img/img_cv.jpg
 description: "CV Généticien - Technicien PSA - Data Enthusiast "
 show_downloads: true
-theme: minima
+theme: jekyll-theme-minimal
 lang: fr
